@@ -10,6 +10,6 @@ Important Links:
 ## Running the app 
 > IMPORTANT: Make sure you complete the instructions outlined in the Setup Guide before attempting to run the app.
 
-To run the app, type `npm start` into the terminal. You can toggle the terminal by pressing `Ctrl + c` on Windows/Linux or `⌘ + c` on Mac.\
+To run the app, type `npm start` into the terminal. You can toggle the terminal by pressing `Ctrl + c` on Windows/Linux or `⌘ + c` on Mac.
 
  If the application does not automatically open, go to [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes. You may also see any lint errors in the console.
