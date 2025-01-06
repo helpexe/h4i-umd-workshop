@@ -8,6 +8,7 @@ Important Links:
 - Workshop Zoom Recording - TO BE ADDED
 
 ## Running the app 
+> IMPORTANT: Make sure you complete the instructions outlined in the Setup Guide before attempting to run the app.
 
 To run the app, type `npm start` into the terminal. You can toggle the terminal by pressing `Ctrl + c` on Windows/Linux or `⌘ + c` on Mac.\
 
