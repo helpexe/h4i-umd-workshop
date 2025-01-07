@@ -79,11 +79,10 @@ function App() {
 
   return (
     <Container>
-      {/* TODO: Create a <h1> (header1) with the text Task Manager.
-          Also add a <p> (Paragraph) with a short description of your
+      {/* TODO: Add a <p> (Paragraph) with a short description of your
           web application!
       */}
-      <h1 className="title">Task Manager</h1>
+      <h1>Task Manager</h1>
       <div className="text-fields">
         {/* TODO: After initializing your state variables and finishing the addTask
             function, add the following:
